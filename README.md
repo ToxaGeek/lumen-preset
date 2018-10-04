@@ -21,8 +21,11 @@ and run `$ composer update` or both in one with `$ composer require toxageek/lum
 Next register the following Console Command to your `app/Console/Kernel.php` file
 
 ```php
+use ToxaGeek\LumenPreset\Console\PresetCommand;
+----------------------------
+
 protected $commands = [
-    
+    PresetCommand::class
 ];
 ```
 
