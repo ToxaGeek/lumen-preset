@@ -1,0 +1,19 @@
+{
+    "name": "toxageek/lumen-preset",
+    "description": "Laravel preset for Lumen",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ToxaGeek",
+            "email": "toxageek@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ToxaGeek\\LumenPreset\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
