@@ -11,7 +11,7 @@ Require the package from your `composer.json` file
 
 ```php
 "require": {
-    "toxageek/lumen-preset": "5.7"
+    "toxageek/lumen-preset": "5.7.*"
 }
 ```
 
