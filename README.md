@@ -2,7 +2,7 @@
 
 Swap the front-end scaffolding for the application
 
-> **Note:** This repository contains the code taken from Laravel 5.7.
+> **Note:** This repository contains the code taken from Laravel 5.6.
 
 **Installation**
 
@@ -11,7 +11,7 @@ Require the package from your `composer.json` file
 
 ```php
 "require": {
-    "toxageek/lumen-preset": "*"
+    "toxageek/lumen-preset": "5.6"
 }
 ```
 
