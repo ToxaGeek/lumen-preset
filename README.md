@@ -15,7 +15,7 @@ Require the package from your `composer.json` file
 }
 ```
 
-and run `$ composer update` or both in one with `$ composer require toxageek/lumen-preset`.
+and run `$ composer update` or both in one with `$ composer require toxageek/lumen-preset` .
 
 
 Next register the following Console Command to your `app/Console/Kernel.php` file
